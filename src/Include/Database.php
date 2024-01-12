@@ -1,7 +1,9 @@
 <?php
-namespace Database\Connection\Include;
+namespace Database\Connection;
 use \PDO;
 use \PDOException;
+use App\Common\Evironment;
+//Carregando variáveis de ambiente
 
 class database
 {
@@ -9,7 +11,7 @@ class database
     public function createDatabaseConnection()
     {
         try{
-            
+            Evironment::load("C:/xampp/htdocs/API DATABASE");
             $config = [
                 'host' => getenv('DB_HOST'),
                 'port' => getenv('DB_PORT'),
@@ -23,7 +25,7 @@ class database
                 ]
             ];
 
-            $dsn = "pgsql:host=127.0.0.1;port=5432;dbname=API;user=postgres;password=La0945687!";
+            $dsn = "pgsql:host={$config['host']};port={$config['port']};dbname={$config['name']};user={$config['user']};password={$config['password']}";
             
             $connection = new PDO(
                 $dsn,

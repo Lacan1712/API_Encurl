@@ -1,7 +1,12 @@
 <?php
 
 require 'C:\xampp\htdocs\API DATABASE\src\include\Database.php';
-use Database\Connection\Include\database as DB;
+
+require 'C:\xampp\htdocs\API DATABASE\APP\Common\Environment.php';
+
+//require 'C:\xampp\htdocs\API DATABASE\vendor\autoload.php';
+use Database\Connection\database as DB;
+
 
 $database_connection = new DB;
 
@@ -12,4 +17,3 @@ $consulta = $shortlink->query("SELECT * FROM api_link");
 foreach ($consulta as $linha) {
     print_r($linha);
 }
-

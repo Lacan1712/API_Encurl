@@ -1,6 +1,8 @@
 {
     "name":"sebra/env",
     "autoload": {
-        
+        "psr-4": {
+            "Database\\Connection\\" : "C:/xampp/htdocs/API DATABASE/src/include/Database.php"
+        }
     }
 }
