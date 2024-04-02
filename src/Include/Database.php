@@ -11,7 +11,7 @@ class database
     public function createDatabaseConnection()
     {
         try{
-            Evironment::load("C:/xampp/htdocs/API DATABASE");
+            Evironment::load('C:\xampp\htdocs\API ENCURTADOR\API_Encurl');
             $config = [
                 'host' => getenv('DB_HOST'),
                 'port' => getenv('DB_PORT'),
@@ -25,12 +25,14 @@ class database
                 ]
             ];
 
-            $dsn = "pgsql:host={$config['host']};port={$config['port']};dbname={$config['name']};user={$config['user']};password={$config['password']}";
+            $dsn = "sqlsrv:Server={$config['host']};Database={$config['name']};Authentication=ActiveDirectoryIntegrated;TrustServerCertificate=true";
+            /*$username = "dev.rr";
+            $password = "Asdf@123";*/
             
             $connection = new PDO(
                 $dsn,
-                null,
-                null,
+                $config['user'],
+                $config['password'],
                 $config['options']
             );
             
@@ -39,7 +41,7 @@ class database
 
         }catch(PDOException $erro){
                 $mensagem_erro = "Erro ao conectar banco de dados: ". $erro->getMessage();
-                $path_log = "C:/xampp/htdocs/API DATABASE/src/include/Log_database.txt";
+                $path_log = 'C:\xampp\htdocs\API ENCURTADOR\API_Encurl\src\Include\Log_database.txt';
                 error_log(date("Y-m-d H:i:s")." ".$mensagem_erro.PHP_EOL, 3,$path_log);
         }
 

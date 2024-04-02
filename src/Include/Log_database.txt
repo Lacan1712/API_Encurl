@@ -1,15 +1,6 @@
-2024-01-12 01:57:46 Erro ao conectar banco de dados: SQLSTATE[08006] [7] FATAL:  password authentication failed for user "lacan"
-2024-01-12 02:00:04 Erro ao conectar banco de dados: SQLSTATE[08006] [7] FATAL:  password authentication failed for user "lacan"
-2024-01-12 02:00:35 Erro ao conectar banco de dados: SQLSTATE[08006] [7] fe_sendauth: no password supplied
-2024-01-12 02:01:45 Erro ao conectar banco de dados: SQLSTATE[08006] [7] missing "=" after "La0945687!" in connection info string
-2024-01-12 02:02:03 Erro ao conectar banco de dados: SQLSTATE[08006] [7] invalid connection option ""
-2024-01-12 02:02:28 Erro ao conectar banco de dados: SQLSTATE[08006] [7] invalid connection option "{user"
-2024-01-12 02:03:17 Erro ao conectar banco de dados: SQLSTATE[08006] [7] FATAL:  password authentication failed for user "postrges"
-2024-01-12 02:03:33 Erro ao conectar banco de dados: SQLSTATE[08006] [7] FATAL:  password authentication failed for user "postrgess"
-2024-01-12 02:03:44 Erro ao conectar banco de dados: SQLSTATE[08006] [7] FATAL:  password authentication failed for user "postgress"
-2024-01-12 02:05:15 Erro ao conectar banco de dados: SQLSTATE[08006] [7] FATAL:  password authentication failed for user "lacan"
-2024-01-12 02:05:24 Erro ao conectar banco de dados: SQLSTATE[08006] [7] FATAL:  password authentication failed for user "lacan"
-2024-01-12 02:06:41 Erro ao conectar banco de dados: SQLSTATE[08006] [7] FATAL:  password authentication failed for user "lacan"
-2024-01-12 02:07:09 Erro ao conectar banco de dados: SQLSTATE[08006] [7] FATAL:  password authentication failed for user "lacan"
-2024-01-12 02:08:23 Erro ao conectar banco de dados: SQLSTATE[08006] [7] FATAL:  password authentication failed for user "lacan"
-2024-01-12 02:08:24 Erro ao conectar banco de dados: SQLSTATE[08006] [7] FATAL:  password authentication failed for user "lacan"
+2024-04-02 16:30:05 Erro ao conectar banco de dados: SQLSTATE[28000]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'RR-SEBRAE\rodrigo.lacan'.
+2024-04-02 16:31:05 Erro ao conectar banco de dados: SQLSTATE[28000]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'dev.rr'.
+2024-04-02 16:31:06 Erro ao conectar banco de dados: SQLSTATE[28000]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'dev.rr'.
+2024-04-02 16:31:21 Erro ao conectar banco de dados: SQLSTATE[28000]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'RR-SEBRAE\rodrigo.lacan'.
+2024-04-02 16:33:06 Erro ao conectar banco de dados: SQLSTATE[28000]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'RR-SEBRAE\rodrigo.lacan'.
+2024-04-02 16:33:07 Erro ao conectar banco de dados: SQLSTATE[28000]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'RR-SEBRAE\rodrigo.lacan'.
