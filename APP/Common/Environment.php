@@ -1,7 +1,7 @@
 <?php
 namespace App\Common;
 
-class Evironment{
+class Environment{
     /**
      * @param string $dir caminho absoluto da pasta onde se encontra o arquivo .env
      */

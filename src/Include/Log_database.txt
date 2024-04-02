@@ -1,6 +1,0 @@
-2024-04-02 16:30:05 Erro ao conectar banco de dados: SQLSTATE[28000]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'RR-SEBRAE\rodrigo.lacan'.
-2024-04-02 16:31:05 Erro ao conectar banco de dados: SQLSTATE[28000]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'dev.rr'.
-2024-04-02 16:31:06 Erro ao conectar banco de dados: SQLSTATE[28000]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'dev.rr'.
-2024-04-02 16:31:21 Erro ao conectar banco de dados: SQLSTATE[28000]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'RR-SEBRAE\rodrigo.lacan'.
-2024-04-02 16:33:06 Erro ao conectar banco de dados: SQLSTATE[28000]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'RR-SEBRAE\rodrigo.lacan'.
-2024-04-02 16:33:07 Erro ao conectar banco de dados: SQLSTATE[28000]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'RR-SEBRAE\rodrigo.lacan'.

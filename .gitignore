@@ -1,2 +1,3 @@
 .env
 src\Include\Log_database.txt
+src\Include\Log_Entity.txt
