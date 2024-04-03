@@ -1,0 +1,24 @@
+2024-04-03 08:46:43 Erro na entidade Encurtar (Constructor): NOT VALIDATE URL
+2024-04-03 08:46:44 Erro na entidade Encurtar (encurtar): SQLSTATE[42S02]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid object name 'dbo.NCURTADO'.
+2024-04-03 09:29:42 NOT VALIDATE URL
+2024-04-03 09:31:54 Erro em Entity Encurtador (constructo)NOT VALIDATE URL
+2024-04-03 09:40:29 Erro em Entity Encurtador (construct) NOT VALIDATE URL
+2024-04-03 09:40:30 Erro na entidade Encurtar (encurtar): SQLSTATE[42S02]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid object name 'dbo.NCURTADO'.
+2024-04-03 09:40:37 Erro em Entity Encurtador (construct) NOT VALIDATE URL
+2024-04-03 09:40:37 Erro na entidade Encurtar (encurtar): SQLSTATE[42S02]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid object name 'dbo.NCURTADO'.
+2024-04-03 09:41:37 Erro em Entity Encurtador (construct) NOT VALIDATE URL
+2024-04-03 09:41:37 Erro na entidade Encurtar (encurtar): SQLSTATE[42S02]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid object name 'dbo.NCURTADO'.
+2024-04-03 09:41:52 Erro em Entity Encurtador (construct) NOT VALIDATE URL
+2024-04-03 09:41:52 Erro na entidade Encurtar (encurtar): SQLSTATE[42S02]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid object name 'dbo.NCURTADO'.
+2024-04-03 09:46:03 Erro em Entity Encurtador (construct) NOT VALIDATE URL
+2024-04-03 09:46:11 Erro em Entity Encurtador (construct) NOT VALIDATE URL
+2024-04-03 10:00:36 Erro em Entity Encurtador (construct) NOT VALIDATE URL
+2024-04-03 10:00:48 Erro em Entity Encurtador (construct) NOT VALIDATE URL
+2024-04-03 10:56:00 Erro em Entity Encurtador (construct) NOT VALIDATE URL
+2024-04-03 10:56:19 Erro em Entity Encurtador (construct) NOT VALIDATE URL
+2024-04-03 10:56:51 Erro em Entity Encurtador (construct) NOT VALIDATE URL
+2024-04-03 11:11:31 Erro em Entity Encurtador (construct) Array
+2024-04-03 11:13:18 Erro em Entity Encurtador (construct) NOT VALIDATE URL
+2024-04-03 11:13:36 Erro em Entity Encurtador (construct) NOT VALIDATE URL
+2024-04-03 11:15:20 Erro em Entity Encurtador (construct) ERROR NON LISTED DOMAIN
+2024-04-03 11:15:31 Erro em Entity Encurtador (construct) ERROR NON LISTED DOMAIN
