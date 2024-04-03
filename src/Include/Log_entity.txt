@@ -14,3 +14,22 @@
 2024-04-03 12:01:02 Erro em Entity Encurtador (construct) ERROR NON LISTED DOMAIN
 2024-04-03 12:02:09 Erro em Entity Encurtador (construct) ERROR NON LISTED DOMAIN
 2024-04-03 12:02:16 Erro em Entity Encurtador (construct) ERROR NON LISTED DOMAIN
+2024-04-03 13:52:49 Erro em Entity Encurtador (construct) NOT VALIDATE URL
+2024-04-03 13:52:50 Erro na entidade Encurtar (encurtar): SQLSTATE[42000]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near ','.
+2024-04-03 13:53:00 Erro em Entity Encurtador (construct) NOT VALIDATE URL
+2024-04-03 13:53:00 Erro na entidade Encurtar (encurtar): SQLSTATE[42000]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near ','.
+2024-04-03 13:53:25 Erro em Entity Encurtador (construct) NOT VALIDATE URL
+2024-04-03 13:53:25 Erro na entidade Encurtar (encurtar): SQLSTATE[42000]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near ','.
+2024-04-03 13:53:53 Erro em Entity Encurtador (construct) ERROR NON LISTED DOMAIN
+2024-04-03 13:53:53 Erro na entidade Encurtar (encurtar): SQLSTATE[42000]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near ','.
+2024-04-03 13:54:50 Erro em Entity Encurtador (construct) ERROR NON LISTED DOMAIN
+2024-04-03 13:55:54 Erro em Entity Encurtador (construct) ERROR NON LISTED DOMAIN
+2024-04-03 13:55:59 Erro em Entity Encurtador (construct) ERROR NON LISTED DOMAIN
+2024-04-03 13:56:11 Erro em Entity Encurtador (construct) ERROR NON LISTED DOMAIN
+2024-04-03 13:56:21 Erro em Entity Encurtador (construct) ERROR NON LISTED DOMAIN
+2024-04-03 13:56:38 Erro em Entity Encurtador (construct) ERROR NON LISTED DOMAIN
+2024-04-03 14:00:13 Erro em Entity Encurtador (construct) NOT VALIDATE URL
+2024-04-03 14:00:43 Erro em Entity Encurtador (construct) ERROR NON LISTED DOMAIN
+2024-04-03 14:00:56 Erro em Entity Encurtador (construct) ERROR NON LISTED DOMAIN
+2024-04-03 15:16:55 Erro em Entity Encurtador (construct) ERROR NON LISTED DOMAIN
+2024-04-03 15:17:16 Erro em Entity Encurtador (construct) ERROR NON LISTED DOMAIN
