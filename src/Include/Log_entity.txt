@@ -33,3 +33,4 @@
 2024-04-03 14:00:56 Erro em Entity Encurtador (construct) ERROR NON LISTED DOMAIN
 2024-04-03 15:16:55 Erro em Entity Encurtador (construct) ERROR NON LISTED DOMAIN
 2024-04-03 15:17:16 Erro em Entity Encurtador (construct) ERROR NON LISTED DOMAIN
+2024-04-04 10:19:47 Erro em Entity Encurtador (construct) ERROR NON LISTED DOMAIN

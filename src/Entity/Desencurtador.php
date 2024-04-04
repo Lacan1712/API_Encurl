@@ -43,7 +43,7 @@ class Desencurtador{
             $stmt->execute();
 
             $long_link = $stmt->fetchAll(PDO::FETCH_ASSOC);
-            return $long_link[0];
+            return $long_link;
         }
         
         
@@ -52,5 +52,3 @@ class Desencurtador{
 
 }
 
-$desencurtar = new Desencurtador;
-print_r($desencurtar->desencurtar('cecbc',0));
